@@ -75,4 +75,10 @@ usergender(chi)
 usergender(ny)
 
 system('python -m nbconvert Explore_bikeshare_data.ipynb')
+<<<<<<< HEAD
 print('Hello Documentation')
+||||||| 1d6546c
+=======
+print("Hello refactoring")
+print("welcome github")
+>>>>>>> refactoring
