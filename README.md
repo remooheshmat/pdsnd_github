@@ -1,18 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+The project created on 14th August 2021.
 
 ### Project Title
-Replace the Project Title
+Explore US BikeShare with R language
 
 ### Description
-Describe what your project is about and what it does
+Exploring and anlyzing the datasets of US BikeShare system in 3 cities: Washington, New-York city, Chicago and getting the imporatnt analysis fot the company to increase their sales
 
 ### Files used
-Include the files used
+3 CSV files datasets for the 3 cities
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-I edited the README file
-I made a change for the new branch
+
